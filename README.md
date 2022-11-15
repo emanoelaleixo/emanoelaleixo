@@ -14,5 +14,5 @@
  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br/>
 
-<q>A vida me ensinou a nunca desistir. 
--Chorão</q>
+<em>Sempre em frente, não temos tempo a perder.<br> 
+Legião Urbana</em>
