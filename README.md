@@ -5,10 +5,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoelaleixo&layout=compact&hide_border=true&title_color=00ced1&text_color=00ced1&bg_color=0d1117" />
 </div>
 
-<div align="center"> 
-<a href="https://www.linkedin.com/in/emanoel-aleixo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
 ### Tecnologias que eu uso:
 
 <div style="display:inline_block"><br/>
@@ -19,8 +15,7 @@
  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  
- 
-</div><br/>
-
-<em>Sempre em frente, não temos tempo a perder.<br> 
--Legião Urbana</em>
+ ### Contato:
+<div> 
+<a href="https://www.linkedin.com/in/emanoel-aleixo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
